@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">TicTacToe</string>
+    <string name="text_Jogador">Jogador X começa</string>
+    <string name="text_reiniciar">Reiniciar Jogo</string>
+    <string name="btn1">celula0 </string>
+    <string name="btn2">celula2 </string>
+    <string name="btn3">celula3 </string>
+    <string name="btn4">celula4 </string>
+    <string name="btn5">celula5 </string>
+    <string name="btn6">celula6 </string>
+    <string name="btn7">celula7 </string>
+    <string name="btn8">celula8 </string>
+    <string name="btn9">celula9 </string>
+</resources>
